@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:aps.autodesk.com)",
+      "WebFetch(domain:autodesk-developer.zendesk.com)",
+      "WebFetch(domain:github.com)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\seany\\Documents\\All Codes\\ACC Build API"
+    ]
+  }
+}
